@@ -1,2 +1,1 @@
-# EasyV2ray
-Endless learning :D
+### EasyV2ray, Endless learning :D
