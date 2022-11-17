@@ -8,3 +8,6 @@
 [Download](https://github.com/yichengchen/clashX/releases/) - [Tutorial](https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/Clash%20For%20MacOS.jpg)
 ### Fair For ios
 [Download](https://apps.apple.com/us/app/fair-vpn/id1533873488) - [Tutorial](https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/Fair%20For%20ios.jpg) 
+***
+### SafeNote .io
+[WebSite]([https://apps.apple.com/us/app/fair-vpn/id1533873488](http://safenote.co)) - [Tutorial]([https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/Fair%20For%20ios.jpg](https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/SafeNote.jpg))
