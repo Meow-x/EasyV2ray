@@ -5,6 +5,6 @@
 ### Clash For Windows
 [Download](https://github.com/Fndroid/clash_for_windows_pkg/releases) - [Tutorial](https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/Clash%20For%20Windows.jpg)
 ### Clash For MacOS 
-[Download](https://github.com/yichengchen/clashX/releases/tag/1.95.1) - [Tutorial](https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/Clash%20For%20MacOS.jpg)
+[Download](https://github.com/yichengchen/clashX/releases/) - [Tutorial](https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/Clash%20For%20MacOS.jpg)
 ### Fair For ios
 [Download](https://apps.apple.com/us/app/fair-vpn/id1533873488) - [Tutorial](https://raw.githubusercontent.com/Meow-x/EasyV2ray/main/Fair%20For%20ios.jpg) 
